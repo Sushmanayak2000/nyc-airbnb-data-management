@@ -1,0 +1,750 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-10-03">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="node_type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="listing_33997927" label="listing_33997927">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_679431" label="host_679431">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Woodhaven" label="neighbourhood_Woodhaven">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_7239527" label="listing_7239527">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_37903935" label="host_37903935">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_East Harlem" label="neighbourhood_East Harlem">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_7275655" label="listing_7275655">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_19491505" label="host_19491505">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_East Village" label="neighbourhood_East Village">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_32161987" label="listing_32161987">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_4619315" label="host_4619315">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Harlem" label="neighbourhood_Harlem">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_16784199" label="listing_16784199">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_5042847" label="host_5042847">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Greenwich Village" label="neighbourhood_Greenwich Village">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_35229201" label="listing_35229201">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_253906467" label="host_253906467">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Hell's Kitchen" label="neighbourhood_Hell's Kitchen">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_19506194" label="listing_19506194">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_16866" label="host_16866">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_10450820" label="listing_10450820">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_1918272" label="host_1918272">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Williamsburg" label="neighbourhood_Williamsburg">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_6732446" label="listing_6732446">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_5532810" label="host_5532810">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_31670111" label="listing_31670111">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_108150300" label="host_108150300">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Greenpoint" label="neighbourhood_Greenpoint">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_32681549" label="listing_32681549">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_245314318" label="host_245314318">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Upper West Side" label="neighbourhood_Upper West Side">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_20597491" label="listing_20597491">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_147184528" label="host_147184528">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_South Ozone Park" label="neighbourhood_South Ozone Park">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_11456047" label="listing_11456047">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_60239797" label="host_60239797">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Elmhurst" label="neighbourhood_Elmhurst">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_22264539" label="listing_22264539">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_104035649" label="host_104035649">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Bushwick" label="neighbourhood_Bushwick">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_36352604" label="listing_36352604">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_54706499" label="host_54706499">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Upper East Side" label="neighbourhood_Upper East Side">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_26770455" label="listing_26770455">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_46844755" label="host_46844755">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Midtown" label="neighbourhood_Midtown">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_22667641" label="listing_22667641">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_167000939" label="host_167000939">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_31620173" label="listing_31620173">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_237049868" label="host_237049868">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_28243134" label="listing_28243134">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_3299094" label="host_3299094">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_35674837" label="listing_35674837">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_213719157" label="host_213719157">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_14084988" label="listing_14084988">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_64960421" label="host_64960421">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Morningside Heights" label="neighbourhood_Morningside Heights">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_24289510" label="listing_24289510">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_54103333" label="host_54103333">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_29825825" label="listing_29825825">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_224350246" label="host_224350246">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Bedford-Stuyvesant" label="neighbourhood_Bedford-Stuyvesant">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_2773754" label="listing_2773754">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_3883648" label="host_3883648">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Windsor Terrace" label="neighbourhood_Windsor Terrace">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_15519679" label="listing_15519679">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_2276763" label="host_2276763">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_10526335" label="listing_10526335">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_13200818" label="host_13200818">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_5212133" label="listing_5212133">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_2265800" label="host_2265800">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_18326156" label="listing_18326156">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_42928837" label="host_42928837">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_6973286" label="listing_6973286">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_12374283" label="host_12374283">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_14989532" label="listing_14989532">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_23208658" label="host_23208658">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_6106544" label="listing_6106544">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_1475015" label="host_1475015">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_16377899" label="listing_16377899">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_53179388" label="host_53179388">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Financial District" label="neighbourhood_Financial District">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_224510" label="listing_224510">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_991380" label="host_991380">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Boerum Hill" label="neighbourhood_Boerum Hill">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_7308735" label="listing_7308735">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_38288441" label="host_38288441">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_11750272" label="listing_11750272">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_25059970" label="host_25059970">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Clifton" label="neighbourhood_Clifton">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_11282788" label="listing_11282788">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_3925093" label="host_3925093">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Prospect Heights" label="neighbourhood_Prospect Heights">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_23636223" label="listing_23636223">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_67768251" label="host_67768251">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_21649523" label="listing_21649523">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_138546022" label="host_138546022">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Crown Heights" label="neighbourhood_Crown Heights">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_28987232" label="listing_28987232">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_136010789" label="host_136010789">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_30406215" label="listing_30406215">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_73262360" label="host_73262360">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_35607568" label="listing_35607568">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_221200420" label="host_221200420">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Murray Hill" label="neighbourhood_Murray Hill">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_33781074" label="listing_33781074">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_26071530" label="host_26071530">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_10012551" label="listing_10012551">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_14910665" label="host_14910665">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_19744093" label="listing_19744093">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_2239235" label="host_2239235">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_16852728" label="listing_16852728">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_2092314" label="host_2092314">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_East Flatbush" label="neighbourhood_East Flatbush">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_26812606" label="listing_26812606">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_6720254" label="host_6720254">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Chelsea" label="neighbourhood_Chelsea">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_9407921" label="listing_9407921">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_48784045" label="host_48784045">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Kips Bay" label="neighbourhood_Kips Bay">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_29504717" label="listing_29504717">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_29100568" label="host_29100568">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="neighbourhood_Theater District" label="neighbourhood_Theater District">
+        <attvalues>
+          <attvalue for="0" value="Neighbourhood" />
+        </attvalues>
+      </node>
+      <node id="listing_23620624" label="listing_23620624">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_128832652" label="host_128832652">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+      <node id="listing_15511695" label="listing_15511695">
+        <attvalues>
+          <attvalue for="0" value="Listing" />
+        </attvalues>
+      </node>
+      <node id="host_39837217" label="host_39837217">
+        <attvalues>
+          <attvalue for="0" value="Host" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="listing_33997927" target="host_679431" id="0" />
+      <edge source="listing_33997927" target="neighbourhood_Woodhaven" id="1" />
+      <edge source="listing_7239527" target="host_37903935" id="2" />
+      <edge source="listing_7239527" target="neighbourhood_East Harlem" id="3" />
+      <edge source="neighbourhood_East Harlem" target="listing_35674837" id="4" />
+      <edge source="neighbourhood_East Harlem" target="listing_14989532" id="5" />
+      <edge source="listing_7275655" target="host_19491505" id="6" />
+      <edge source="listing_7275655" target="neighbourhood_East Village" id="7" />
+      <edge source="neighbourhood_East Village" target="listing_19506194" id="8" />
+      <edge source="neighbourhood_East Village" target="listing_6973286" id="9" />
+      <edge source="listing_32161987" target="host_4619315" id="10" />
+      <edge source="listing_32161987" target="neighbourhood_Harlem" id="11" />
+      <edge source="neighbourhood_Harlem" target="listing_28243134" id="12" />
+      <edge source="neighbourhood_Harlem" target="listing_15519679" id="13" />
+      <edge source="neighbourhood_Harlem" target="listing_7308735" id="14" />
+      <edge source="listing_16784199" target="host_5042847" id="15" />
+      <edge source="listing_16784199" target="neighbourhood_Greenwich Village" id="16" />
+      <edge source="listing_35229201" target="host_253906467" id="17" />
+      <edge source="listing_35229201" target="neighbourhood_Hell's Kitchen" id="18" />
+      <edge source="neighbourhood_Hell's Kitchen" target="listing_24289510" id="19" />
+      <edge source="listing_19506194" target="host_16866" id="20" />
+      <edge source="listing_10450820" target="host_1918272" id="21" />
+      <edge source="listing_10450820" target="neighbourhood_Williamsburg" id="22" />
+      <edge source="neighbourhood_Williamsburg" target="listing_6732446" id="23" />
+      <edge source="neighbourhood_Williamsburg" target="listing_31620173" id="24" />
+      <edge source="neighbourhood_Williamsburg" target="listing_18326156" id="25" />
+      <edge source="neighbourhood_Williamsburg" target="listing_10012551" id="26" />
+      <edge source="listing_6732446" target="host_5532810" id="27" />
+      <edge source="listing_31670111" target="host_108150300" id="28" />
+      <edge source="listing_31670111" target="neighbourhood_Greenpoint" id="29" />
+      <edge source="neighbourhood_Greenpoint" target="listing_5212133" id="30" />
+      <edge source="listing_32681549" target="host_245314318" id="31" />
+      <edge source="listing_32681549" target="neighbourhood_Upper West Side" id="32" />
+      <edge source="neighbourhood_Upper West Side" target="listing_23636223" id="33" />
+      <edge source="listing_20597491" target="host_147184528" id="34" />
+      <edge source="listing_20597491" target="neighbourhood_South Ozone Park" id="35" />
+      <edge source="listing_11456047" target="host_60239797" id="36" />
+      <edge source="listing_11456047" target="neighbourhood_Elmhurst" id="37" />
+      <edge source="listing_22264539" target="host_104035649" id="38" />
+      <edge source="listing_22264539" target="neighbourhood_Bushwick" id="39" />
+      <edge source="neighbourhood_Bushwick" target="listing_10526335" id="40" />
+      <edge source="neighbourhood_Bushwick" target="listing_28987232" id="41" />
+      <edge source="neighbourhood_Bushwick" target="listing_23620624" id="42" />
+      <edge source="neighbourhood_Bushwick" target="listing_15511695" id="43" />
+      <edge source="listing_36352604" target="host_54706499" id="44" />
+      <edge source="listing_36352604" target="neighbourhood_Upper East Side" id="45" />
+      <edge source="neighbourhood_Upper East Side" target="listing_22667641" id="46" />
+      <edge source="listing_26770455" target="host_46844755" id="47" />
+      <edge source="listing_26770455" target="neighbourhood_Midtown" id="48" />
+      <edge source="neighbourhood_Midtown" target="listing_6106544" id="49" />
+      <edge source="neighbourhood_Midtown" target="listing_30406215" id="50" />
+      <edge source="listing_22667641" target="host_167000939" id="51" />
+      <edge source="listing_31620173" target="host_237049868" id="52" />
+      <edge source="listing_28243134" target="host_3299094" id="53" />
+      <edge source="listing_35674837" target="host_213719157" id="54" />
+      <edge source="listing_14084988" target="host_64960421" id="55" />
+      <edge source="listing_14084988" target="neighbourhood_Morningside Heights" id="56" />
+      <edge source="listing_24289510" target="host_54103333" id="57" />
+      <edge source="listing_29825825" target="host_224350246" id="58" />
+      <edge source="listing_29825825" target="neighbourhood_Bedford-Stuyvesant" id="59" />
+      <edge source="listing_2773754" target="host_3883648" id="60" />
+      <edge source="listing_2773754" target="neighbourhood_Windsor Terrace" id="61" />
+      <edge source="listing_15519679" target="host_2276763" id="62" />
+      <edge source="listing_10526335" target="host_13200818" id="63" />
+      <edge source="listing_5212133" target="host_2265800" id="64" />
+      <edge source="listing_18326156" target="host_42928837" id="65" />
+      <edge source="listing_6973286" target="host_12374283" id="66" />
+      <edge source="listing_14989532" target="host_23208658" id="67" />
+      <edge source="listing_6106544" target="host_1475015" id="68" />
+      <edge source="listing_16377899" target="host_53179388" id="69" />
+      <edge source="listing_16377899" target="neighbourhood_Financial District" id="70" />
+      <edge source="listing_224510" target="host_991380" id="71" />
+      <edge source="listing_224510" target="neighbourhood_Boerum Hill" id="72" />
+      <edge source="listing_7308735" target="host_38288441" id="73" />
+      <edge source="listing_11750272" target="host_25059970" id="74" />
+      <edge source="listing_11750272" target="neighbourhood_Clifton" id="75" />
+      <edge source="listing_11282788" target="host_3925093" id="76" />
+      <edge source="listing_11282788" target="neighbourhood_Prospect Heights" id="77" />
+      <edge source="listing_23636223" target="host_67768251" id="78" />
+      <edge source="listing_21649523" target="host_138546022" id="79" />
+      <edge source="listing_21649523" target="neighbourhood_Crown Heights" id="80" />
+      <edge source="neighbourhood_Crown Heights" target="listing_33781074" id="81" />
+      <edge source="neighbourhood_Crown Heights" target="listing_19744093" id="82" />
+      <edge source="listing_28987232" target="host_136010789" id="83" />
+      <edge source="listing_30406215" target="host_73262360" id="84" />
+      <edge source="listing_35607568" target="host_221200420" id="85" />
+      <edge source="listing_35607568" target="neighbourhood_Murray Hill" id="86" />
+      <edge source="listing_33781074" target="host_26071530" id="87" />
+      <edge source="listing_10012551" target="host_14910665" id="88" />
+      <edge source="listing_19744093" target="host_2239235" id="89" />
+      <edge source="listing_16852728" target="host_2092314" id="90" />
+      <edge source="listing_16852728" target="neighbourhood_East Flatbush" id="91" />
+      <edge source="listing_26812606" target="host_6720254" id="92" />
+      <edge source="listing_26812606" target="neighbourhood_Chelsea" id="93" />
+      <edge source="listing_9407921" target="host_48784045" id="94" />
+      <edge source="listing_9407921" target="neighbourhood_Kips Bay" id="95" />
+      <edge source="listing_29504717" target="host_29100568" id="96" />
+      <edge source="listing_29504717" target="neighbourhood_Theater District" id="97" />
+      <edge source="listing_23620624" target="host_128832652" id="98" />
+      <edge source="listing_15511695" target="host_39837217" id="99" />
+    </edges>
+  </graph>
+</gexf>

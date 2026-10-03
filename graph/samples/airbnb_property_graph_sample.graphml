@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="node_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="listing_33997927">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_679431">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Woodhaven">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_7239527">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_37903935">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_East Harlem">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_7275655">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_19491505">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_East Village">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_32161987">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_4619315">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Harlem">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_16784199">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_5042847">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Greenwich Village">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_35229201">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_253906467">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Hell's Kitchen">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_19506194">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_16866">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_10450820">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_1918272">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Williamsburg">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_6732446">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_5532810">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_31670111">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_108150300">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Greenpoint">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_32681549">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_245314318">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Upper West Side">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_20597491">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_147184528">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_South Ozone Park">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_11456047">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_60239797">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Elmhurst">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_22264539">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_104035649">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Bushwick">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_36352604">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_54706499">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Upper East Side">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_26770455">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_46844755">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Midtown">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_22667641">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_167000939">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_31620173">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_237049868">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_28243134">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_3299094">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_35674837">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_213719157">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_14084988">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_64960421">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Morningside Heights">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_24289510">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_54103333">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_29825825">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_224350246">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Bedford-Stuyvesant">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_2773754">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_3883648">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Windsor Terrace">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_15519679">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_2276763">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_10526335">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_13200818">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_5212133">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_2265800">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_18326156">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_42928837">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_6973286">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_12374283">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_14989532">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_23208658">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_6106544">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_1475015">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_16377899">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_53179388">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Financial District">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_224510">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_991380">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Boerum Hill">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_7308735">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_38288441">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_11750272">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_25059970">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Clifton">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_11282788">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_3925093">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Prospect Heights">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_23636223">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_67768251">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_21649523">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_138546022">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Crown Heights">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_28987232">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_136010789">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_30406215">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_73262360">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_35607568">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_221200420">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Murray Hill">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_33781074">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_26071530">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_10012551">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_14910665">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_19744093">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_2239235">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_16852728">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_2092314">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_East Flatbush">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_26812606">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_6720254">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Chelsea">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_9407921">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_48784045">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Kips Bay">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_29504717">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_29100568">
+      <data key="d0">Host</data>
+    </node>
+    <node id="neighbourhood_Theater District">
+      <data key="d0">Neighbourhood</data>
+    </node>
+    <node id="listing_23620624">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_128832652">
+      <data key="d0">Host</data>
+    </node>
+    <node id="listing_15511695">
+      <data key="d0">Listing</data>
+    </node>
+    <node id="host_39837217">
+      <data key="d0">Host</data>
+    </node>
+    <edge source="listing_33997927" target="host_679431" />
+    <edge source="listing_33997927" target="neighbourhood_Woodhaven" />
+    <edge source="listing_7239527" target="host_37903935" />
+    <edge source="listing_7239527" target="neighbourhood_East Harlem" />
+    <edge source="neighbourhood_East Harlem" target="listing_35674837" />
+    <edge source="neighbourhood_East Harlem" target="listing_14989532" />
+    <edge source="listing_7275655" target="host_19491505" />
+    <edge source="listing_7275655" target="neighbourhood_East Village" />
+    <edge source="neighbourhood_East Village" target="listing_19506194" />
+    <edge source="neighbourhood_East Village" target="listing_6973286" />
+    <edge source="listing_32161987" target="host_4619315" />
+    <edge source="listing_32161987" target="neighbourhood_Harlem" />
+    <edge source="neighbourhood_Harlem" target="listing_28243134" />
+    <edge source="neighbourhood_Harlem" target="listing_15519679" />
+    <edge source="neighbourhood_Harlem" target="listing_7308735" />
+    <edge source="listing_16784199" target="host_5042847" />
+    <edge source="listing_16784199" target="neighbourhood_Greenwich Village" />
+    <edge source="listing_35229201" target="host_253906467" />
+    <edge source="listing_35229201" target="neighbourhood_Hell's Kitchen" />
+    <edge source="neighbourhood_Hell's Kitchen" target="listing_24289510" />
+    <edge source="listing_19506194" target="host_16866" />
+    <edge source="listing_10450820" target="host_1918272" />
+    <edge source="listing_10450820" target="neighbourhood_Williamsburg" />
+    <edge source="neighbourhood_Williamsburg" target="listing_6732446" />
+    <edge source="neighbourhood_Williamsburg" target="listing_31620173" />
+    <edge source="neighbourhood_Williamsburg" target="listing_18326156" />
+    <edge source="neighbourhood_Williamsburg" target="listing_10012551" />
+    <edge source="listing_6732446" target="host_5532810" />
+    <edge source="listing_31670111" target="host_108150300" />
+    <edge source="listing_31670111" target="neighbourhood_Greenpoint" />
+    <edge source="neighbourhood_Greenpoint" target="listing_5212133" />
+    <edge source="listing_32681549" target="host_245314318" />
+    <edge source="listing_32681549" target="neighbourhood_Upper West Side" />
+    <edge source="neighbourhood_Upper West Side" target="listing_23636223" />
+    <edge source="listing_20597491" target="host_147184528" />
+    <edge source="listing_20597491" target="neighbourhood_South Ozone Park" />
+    <edge source="listing_11456047" target="host_60239797" />
+    <edge source="listing_11456047" target="neighbourhood_Elmhurst" />
+    <edge source="listing_22264539" target="host_104035649" />
+    <edge source="listing_22264539" target="neighbourhood_Bushwick" />
+    <edge source="neighbourhood_Bushwick" target="listing_10526335" />
+    <edge source="neighbourhood_Bushwick" target="listing_28987232" />
+    <edge source="neighbourhood_Bushwick" target="listing_23620624" />
+    <edge source="neighbourhood_Bushwick" target="listing_15511695" />
+    <edge source="listing_36352604" target="host_54706499" />
+    <edge source="listing_36352604" target="neighbourhood_Upper East Side" />
+    <edge source="neighbourhood_Upper East Side" target="listing_22667641" />
+    <edge source="listing_26770455" target="host_46844755" />
+    <edge source="listing_26770455" target="neighbourhood_Midtown" />
+    <edge source="neighbourhood_Midtown" target="listing_6106544" />
+    <edge source="neighbourhood_Midtown" target="listing_30406215" />
+    <edge source="listing_22667641" target="host_167000939" />
+    <edge source="listing_31620173" target="host_237049868" />
+    <edge source="listing_28243134" target="host_3299094" />
+    <edge source="listing_35674837" target="host_213719157" />
+    <edge source="listing_14084988" target="host_64960421" />
+    <edge source="listing_14084988" target="neighbourhood_Morningside Heights" />
+    <edge source="listing_24289510" target="host_54103333" />
+    <edge source="listing_29825825" target="host_224350246" />
+    <edge source="listing_29825825" target="neighbourhood_Bedford-Stuyvesant" />
+    <edge source="listing_2773754" target="host_3883648" />
+    <edge source="listing_2773754" target="neighbourhood_Windsor Terrace" />
+    <edge source="listing_15519679" target="host_2276763" />
+    <edge source="listing_10526335" target="host_13200818" />
+    <edge source="listing_5212133" target="host_2265800" />
+    <edge source="listing_18326156" target="host_42928837" />
+    <edge source="listing_6973286" target="host_12374283" />
+    <edge source="listing_14989532" target="host_23208658" />
+    <edge source="listing_6106544" target="host_1475015" />
+    <edge source="listing_16377899" target="host_53179388" />
+    <edge source="listing_16377899" target="neighbourhood_Financial District" />
+    <edge source="listing_224510" target="host_991380" />
+    <edge source="listing_224510" target="neighbourhood_Boerum Hill" />
+    <edge source="listing_7308735" target="host_38288441" />
+    <edge source="listing_11750272" target="host_25059970" />
+    <edge source="listing_11750272" target="neighbourhood_Clifton" />
+    <edge source="listing_11282788" target="host_3925093" />
+    <edge source="listing_11282788" target="neighbourhood_Prospect Heights" />
+    <edge source="listing_23636223" target="host_67768251" />
+    <edge source="listing_21649523" target="host_138546022" />
+    <edge source="listing_21649523" target="neighbourhood_Crown Heights" />
+    <edge source="neighbourhood_Crown Heights" target="listing_33781074" />
+    <edge source="neighbourhood_Crown Heights" target="listing_19744093" />
+    <edge source="listing_28987232" target="host_136010789" />
+    <edge source="listing_30406215" target="host_73262360" />
+    <edge source="listing_35607568" target="host_221200420" />
+    <edge source="listing_35607568" target="neighbourhood_Murray Hill" />
+    <edge source="listing_33781074" target="host_26071530" />
+    <edge source="listing_10012551" target="host_14910665" />
+    <edge source="listing_19744093" target="host_2239235" />
+    <edge source="listing_16852728" target="host_2092314" />
+    <edge source="listing_16852728" target="neighbourhood_East Flatbush" />
+    <edge source="listing_26812606" target="host_6720254" />
+    <edge source="listing_26812606" target="neighbourhood_Chelsea" />
+    <edge source="listing_9407921" target="host_48784045" />
+    <edge source="listing_9407921" target="neighbourhood_Kips Bay" />
+    <edge source="listing_29504717" target="host_29100568" />
+    <edge source="listing_29504717" target="neighbourhood_Theater District" />
+    <edge source="listing_23620624" target="host_128832652" />
+    <edge source="listing_15511695" target="host_39837217" />
+  </graph>
+</graphml>

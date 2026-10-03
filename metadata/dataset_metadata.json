@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "New York City Airbnb Open Data 2019",
+  "description": "This dataset includes all needed information to feel how the guest or host behave and listing activity and metrics in NYC, NY for the year 2019.",
+  "url": "https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data",
+  "identifier": "https://doi.org/10.10.3886/E110305V1",
+  "creator": {
+    "@type": "Person",
+    "name": "Dgomonov"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "AB_NYC_2019.csv"
+    }
+  ],
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "id",
+      "description": "Listing ID"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "neighbourhood_group",
+      "description": "Borough (Manhattan, Brooklyn, etc.)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "price",
+      "description": "Price per night in USD",
+      "unitText": "USD"
+    }
+  ],
+  "spatialCoverage": "New York City, NY, USA",
+  "temporalCoverage": "2019-01-01/2019-12-31",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
